@@ -1,0 +1,8 @@
+To run this package you will need the following software:
+Python 3, with numpy
+OpenMDAO
+
+Optional:
+dymos
+coolprop
+pyoptsparse with SNOPT
